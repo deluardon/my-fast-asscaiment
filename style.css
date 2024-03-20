@@ -1,0 +1,43 @@
+body{
+  font-family: "Work Sans";
+}
+.header{
+  background-image: url(./images/banner/banner2.png);
+  background-repeat: no-repeat;
+  height: 809px;
+  width: 1600px;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  
+  
+  
+}
+.header-container{
+  text-align: right;
+  padding: 20px 20px 20px 200px;
+}
+.header-tittle{
+  font-size: 65px;
+  font-weight: 700px;
+  text-align: right;
+  align-items:center;
+  display:block;
+}
+.header-discription{
+  font-size: 16px;
+  font-weight: 400;
+  text-align: right;
+  align-items:center;
+  color: #444343;
+}
+.header-dtm{
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #F15B22;
+  border-radius: 5px;
+  width: 140px;
+  height: 40px;
+}
